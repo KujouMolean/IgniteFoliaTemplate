@@ -1,0 +1,1 @@
+java  -Xmx4G -Dignite.locator=paper -Dignite.paper.version=1.21.4 -Dignite.paper.branch=folia -Dignite.paper.jar=./folia.jar -jar ignite-launcher.jar --nogui
